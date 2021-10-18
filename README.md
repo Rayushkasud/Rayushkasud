@@ -13,7 +13,7 @@
   
   -Looking for opportunities to collaborate with fellow tech enthusiasts
   
-  -Connect with me: 
+  -Connect with me: Linkedin[https://www.linkedin.com/in/rayushka-s-0a67951a5/]
 
 <!--
 **Rayushkasud/Rayushkasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

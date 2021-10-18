@@ -3,6 +3,13 @@
   <br><br>
 
 ### Hi there, I'm Rayushka 👋
+  
+## ⚡ About Me  
+  -I'm a Computer Science Engineering student at MIT ADT University Pune
+  -I'm currently working as a Software Engineer Intern at Manastik
+  -I'm passionate about Machine Learning and Web Development 
+  -Looking for opportunities to collaborate with fellow tech enthusiasts
+  -Connect with me: <a href="https://www.linkedin.com/in/rayushka-s-0a67951a5/" Linkedin </a>
 
 <!--
 **Rayushkasud/Rayushkasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

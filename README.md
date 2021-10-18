@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42360534/137688297-7efe143c-858d-4e18-96b2-4b26d245d948.png" width="27px">
+  <img src="https://user-images.githubusercontent.com/42360534/137688297-7efe143c-858d-4e18-96b2-4b26d245d948.png"  alt="My banner">
   <br><br>
 
 ### Hi there, I'm Rayushka 👋

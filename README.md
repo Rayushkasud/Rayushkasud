@@ -7,6 +7,8 @@
 ## ⚡ About Me  
   -I'm a Computer Science Engineering student at MIT ADT University Pune
   
+  -Microsoft Learn Student Ambassador
+  
   -I'm currently working as a Software Engineer Intern at Manastik
   
   -I'm passionate about Machine Learning and Web Development 
